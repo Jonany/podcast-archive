@@ -1,0 +1,1 @@
+A personal repo for archiving podcast feeds that I listen to. A lot of these podcasts automatically remove older episodes from the feed. This is an attempt to combat that. Thanks for Web Archive's Wayback Machine for providing older feeds that I used to restore the missing episodes.
